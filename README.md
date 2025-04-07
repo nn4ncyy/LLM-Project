@@ -56,4 +56,9 @@ Several key hyperparameters were optimized to ensure the best performance for th
 
 **Mixed Precision Training:** fp16=True was used to leverage mixed precision, which reduces memory usage and speeds up training without significantly affecting the model's performance.
 
+## Relevent Links
+**Model:** https://huggingface.co/n4ncy/distilbert-imdb-sentiment
+**Dataset:** https://huggingface.co/datasets/stanfordnlp/imdb
+<img width="1297" alt="Screenshot 2025-04-07 at 11 25 22 AM" src="https://github.com/user-attachments/assets/4e86f455-2b40-41dc-89f7-1c6d161b878f" />
+
 
